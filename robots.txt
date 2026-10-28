@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://USERNAME.github.io/geo-site/sitemap.xml
+Sitemap: https://shenmeng111.github.io/geo-site/sitemap.xml
